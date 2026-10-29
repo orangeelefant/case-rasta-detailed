@@ -6,4 +6,5 @@ Every commit that changes behavior, copy, configuration, or dependencies MUST ad
 
 ## [Unreleased]
 
+- Länkarna till hemstadgoteborg.com är borttagna enligt Christoffers beslut (2026-10-29).
 - Bootstrapped `AGENTS.md`, `CLAUDE.md`, `CHANGELOG.md`, `TODO.md` (2026-05-25).
