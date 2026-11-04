@@ -21,5 +21,5 @@ Sites we build, host, and operate:
 - [Rastahunden](https://rastahunden.com) — Sveriges hundvänliga karta
 
 ## Contact
-- 📧 hej@webraketen.se · 🌍 Göteborg, Sverige
-- 🐙 [github.com/Webraketen](https://github.com/Webraketen) · [github.com/orangeelefant](https://github.com/orangeelefant)
+- hej@webraketen.se · Göteborg, Sverige
+- [github.com/orangeelefant](https://github.com/orangeelefant)

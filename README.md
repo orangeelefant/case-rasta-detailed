@@ -2,6 +2,8 @@
 
 How [Rastahunden](https://rastahunden.com) — Sweden's most complete dog-friendly map — was built and is operated by [Christoffer](https://github.com/orangeelefant) at [Webraketen](https://webraketen.se).
 
+> **Archived.** This case now lives in [case-studies/rasta-detailed](https://github.com/orangeelefant/case-studies/tree/main/rasta-detailed).
+
 ## Live numbers
 
 - **596+ verified locations** across **116 cities**
@@ -46,6 +48,9 @@ How [Rastahunden](https://rastahunden.com) — Sweden's most complete dog-friend
 
 ## Related
 
-- **Builder:** [github.com/orangeelefant](https://github.com/orangeelefant) · [github.com/Webraketen](https://github.com/Webraketen)
-- **Agency:** [webraketen.se](https://webraketen.se) · **Portfolio:** [github.com/Webraketen/portfolio](https://github.com/Webraketen/portfolio)
+- **Builder:** [github.com/orangeelefant](https://github.com/orangeelefant)
+- **Agency:** [webraketen.se](https://webraketen.se) · **Portfolio:** [github.com/orangeelefant/portfolio](https://github.com/orangeelefant/portfolio)
 - **Companion case study (gist):** [Building a national directory with Next.js + Supabase](https://gist.github.com/orangeelefant/a37e7614bd3ac559e36c365e1ed72645)
+
+---
+**Webraketen on GitHub:** [Portfolio](https://github.com/orangeelefant/portfolio) · [Case studies](https://github.com/orangeelefant/case-studies) · [Blue Pencil](https://github.com/orangeelefant/bluepencil) · [webraketen.se](https://webraketen.se)

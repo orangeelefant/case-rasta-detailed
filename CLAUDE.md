@@ -1,49 +1,23 @@
 # CLAUDE.md
 
-Project context for Claude Code sessions in this repository.
+Context for Claude Code sessions here.
 
-## What This Is
+## What this is
 
-Webraketen case study — rasta-detailed
+A Webraketen case study for Rastahunden (detailed write-up), written in Markdown.
 
 **Live:** https://rastahunden.com
 
-## Stack
+## Files
 
-_(Fill in: framework, language, hosting, key services. Inspect `package.json` / `pyproject.toml` / similar to confirm.)_
-
-## Layout
-
-- `src/` — source code
-- `tests/` — tests
-- `docs/` — documentation
-- `scripts/` — utility scripts
-
-## Commands
-
-```bash
-# install
-# build
-# test
-# dev
-```
-
-_(Fill in actual commands once known.)`_
+- `README.md`: the case study
+- `ABOUT.md`: Webraketen and the sites it builds and runs
+- `AGENTS.md`: rules for automation agents
+- `CHANGELOG.md`: content changes
+- `TODO.md`: open work
 
 ## Conventions
 
-- Match existing patterns; don't introduce new abstractions without reason.
-- Keep files under 500 lines.
-- Swedish copy for client-facing text unless otherwise specified.
-- Secrets live in `~/.secrets` and are referenced via `${VAR}`.
-
-## Definition of Done
-
-A change is done when:
-
-1. Code works (built and verified locally).
-2. `CHANGELOG.md` updated under `[Unreleased]`.
-3. `TODO.md` reconciled (completed items removed or ticked, follow-ups added).
-4. Committed and pushed to `main`.
-
-See `AGENTS.md` for the full agent contract.
+- No build step. Check links by hand before pushing.
+- README language stays as written (English with Swedish client terms).
+- See `AGENTS.md` for the full rules.
